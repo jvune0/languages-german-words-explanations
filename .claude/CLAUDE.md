@@ -25,6 +25,36 @@ When the user sends a German word, phrase, or idiom (e.g. `versehen`,
 7. **Duplicate check**: "Before creating a file, check whether a card
   with that name already exists; if it does, show it and ask."
 
+## Requests about a group of words (`X vs Y vs Z`, `etc.`)
+
+If the user sends several related words at once — a comparison
+(*feststellen vs festhalten vs festnehmen*), a prefix or root family,
+or a list ending in "etc." — **do not** create a separate card per
+word. Create **one joint comparison card**, in Russian and English as
+usual.
+
+1. Filename: name the shared element, not the whole list —
+   a prefix/root family → `fest-verben.md`, `ver-verben.md`;
+   an unrelated trio → the words joined by `_vs_`, e.g.
+   `legen_vs_stellen.md`.
+2. Heading: `# fest- (feststellen · festhalten · festnehmen …) —
+   short translation of the shared idea`.
+3. Structure: keep the usual sections, but organise the body as
+   `###` per word (grammar, government, 2–4 examples each), and add:
+   - a **summary table** comparing the members side by side
+     (object, meaning, register);
+   - **"how not to confuse them"** tables against near neighbours
+     outside the family (e.g. *festnehmen* vs *verhaften* vs
+     *aufhalten*);
+   - one **shared etymological key** that explains the whole group
+     (e.g. *fest* = English *fast* "immovable"), instead of repeating
+     the etymology per word.
+4. `How to remember` closes the card with a single hook covering all
+   members — ideally one sentence containing them all.
+5. `INDEX.md` gets **one** entry for the group.
+6. In the reply, note that you made one joint card and offer to
+   generate individual cards for the members if wanted.
+
 ## Formatting requirements (both languages)
 
 - Format: **markdown**.
