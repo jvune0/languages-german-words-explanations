@@ -9,11 +9,15 @@ markdown files**: one in Russian, one in English.
 When the user sends a German word, phrase, or idiom (e.g. `versehen`,
 `im Begriff sein`, `aus Versehen`):
 
-1. Derive a safe filename: lowercase the word, replace spaces with
-   `_`, keep umlauts as-is (`ä`, `ö`, `ü`, `ß`).
+1. Derive a safe filename: **keep each word's own German
+   capitalisation** — nouns keep their capital letter, verbs,
+   adjectives and function words stay lowercase. Replace spaces with
+   `_` and keep umlauts as-is (`ä`, `ö`, `ü`, `ß`).
    - `versehen` → `versehen.md`
-   - `im Begriff sein` → `im_begriff_sein.md`
-   - `Verpflegung` → `verpflegung.md`
+   - `Verpflegung` → `Verpflegung.md`
+   - `im Begriff sein` → `im_Begriff_sein.md`
+   - `völkerrechtswidrig` → `völkerrechtswidrig.md`
+   - `der Antritt` → `Antritt.md` (drop the article)
 2. Create the folders `rus/` and `eng/` at the project root if they
    don't exist yet.
 3. Generate the **Russian** card and write it to `rus/[word].md`.
@@ -34,9 +38,10 @@ word. Create **one joint comparison card**, in Russian and English as
 usual.
 
 1. Filename: name the shared element, not the whole list —
-   a prefix/root family → `fest-verben.md`, `ver-verben.md`;
+   a prefix/root family → `fest-Verben.md`, `ver-Verben.md`;
    an unrelated trio → the words joined by `_vs_`, e.g.
-   `legen_vs_stellen.md`.
+   `legen_vs_stellen.md`. The same capitalisation rule applies:
+   *Verben* is a noun, so it keeps its capital.
 2. Heading: `# fest- (feststellen · festhalten · festnehmen …) —
    short translation of the shared idea`.
 3. Structure: keep the usual sections, but organise the body as
