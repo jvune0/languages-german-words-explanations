@@ -3,7 +3,9 @@
 | Слово / Word | Рус | Eng |
 |---|---|---|
 | *Abstecher* | [rus](rus/Abstecher.md) | [eng](eng/Abstecher.md) |
+| *Abwechslung* | [rus](rus/Abwechslung.md) | [eng](eng/Abwechslung.md) |
 | *antreten* | [rus](rus/antreten.md) | [eng](eng/antreten.md) |
+| *empfindlich* | [rus](rus/empfindlich.md) | [eng](eng/empfindlich.md) |
 | *fest-* (feststellen …) | [rus](rus/fest-Verben.md) | [eng](eng/fest-Verben.md) |
 | *harren* | [rus](rus/harren.md) | [eng](eng/harren.md) |
 | *im Begriff sein* | [rus](rus/im_Begriff_sein.md) | [eng](eng/im_Begriff_sein.md) |
