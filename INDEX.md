@@ -2,6 +2,7 @@
 
 | Слово / Word | Рус | Eng |
 |---|---|---|
+| *Abstecher* | [rus](rus/Abstecher.md) | [eng](eng/Abstecher.md) |
 | *antreten* | [rus](rus/antreten.md) | [eng](eng/antreten.md) |
 | *fest-* (feststellen …) | [rus](rus/fest-Verben.md) | [eng](eng/fest-Verben.md) |
 | *harren* | [rus](rus/harren.md) | [eng](eng/harren.md) |
