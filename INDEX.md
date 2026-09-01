@@ -14,11 +14,17 @@
 | *empfinden* | [rus](rus/empfinden.md) | [eng](eng/empfinden.md) |
 | *empfindlich* | [rus](rus/empfindlich.md) | [eng](eng/empfindlich.md) |
 | *empören* | [rus](rus/empören.md) | [eng](eng/empören.md) |
+| *erheblich* | [rus](rus/erheblich.md) | [eng](eng/erheblich.md) |
 | *fest-* (feststellen …) | [rus](rus/fest-Verben.md) | [eng](eng/fest-Verben.md) |
 | *harren* | [rus](rus/harren.md) | [eng](eng/harren.md) |
+| *herumfummeln* | [rus](rus/herumfummeln.md) | [eng](eng/herumfummeln.md) |
 | *im Begriff sein* | [rus](rus/im_Begriff_sein.md) | [eng](eng/im_Begriff_sein.md) |
+| *nachfragen* | [rus](rus/nachfragen.md) | [eng](eng/nachfragen.md) |
+| *umziehen* | [rus](rus/umziehen.md) | [eng](eng/umziehen.md) |
 | *verkündigen* | [rus](rus/verkündigen.md) | [eng](eng/verkündigen.md) |
+| *verlangen* | [rus](rus/verlangen.md) | [eng](eng/verlangen.md) |
 | *vermuten* | [rus](rus/vermuten.md) | [eng](eng/vermuten.md) |
+| *vernünftig* | [rus](rus/vernünftig.md) | [eng](eng/vernünftig.md) |
 | *Verpflegung* | [rus](rus/Verpflegung.md) | [eng](eng/Verpflegung.md) |
 | *verschieben* | [rus](rus/verschieben.md) | [eng](eng/verschieben.md) |
 | *versehen* | [rus](rus/versehen.md) | [eng](eng/versehen.md) |
