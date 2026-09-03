@@ -19,7 +19,10 @@
 | *harren* | [rus](rus/harren.md) | [eng](eng/harren.md) |
 | *herumfummeln* | [rus](rus/herumfummeln.md) | [eng](eng/herumfummeln.md) |
 | *im Begriff sein* | [rus](rus/im_Begriff_sein.md) | [eng](eng/im_Begriff_sein.md) |
+| *im Griff* vs. *im Begriff* | [rus](rus/im_Griff_vs_im_Begriff.md) | [eng](eng/im_Griff_vs_im_Begriff.md) |
+| *jmdn. um etw. bringen* | [rus](rus/jmdn_um_etw_bringen.md) | [eng](eng/jmdn_um_etw_bringen.md) |
 | *nachfragen* | [rus](rus/nachfragen.md) | [eng](eng/nachfragen.md) |
+| *-treten* (treten · antreten · eintreten …) | [rus](rus/treten-Verben.md) | [eng](eng/treten-Verben.md) |
 | *umziehen* | [rus](rus/umziehen.md) | [eng](eng/umziehen.md) |
 | *verkündigen* | [rus](rus/verkündigen.md) | [eng](eng/verkündigen.md) |
 | *verlangen* | [rus](rus/verlangen.md) | [eng](eng/verlangen.md) |
