@@ -43,6 +43,29 @@ described is the very same movement:
 > *Er **hat** den Raum betreten.* — *den Raum* is a direct object →
 > transitive → *haben*.
 
+**Accusative ≠ accusative object.** The accusative is a *form* (a case);
+an object is a *role* in the clause. In *in den Raum* the case is imposed
+by the **preposition** *in* (Akk = direction, Dat = location), not by the
+verb, and it carries its own meaning, “whither”. An object is what the verb
+itself demands, directly and without a preposition. Hence three tests:
+
+| Test | *in den Raum treten* | *den Raum betreten* |
+|---|---|---|
+| Question word | *Wohin?* → adverbial | *Wen/was?* → object |
+| Drop the preposition | *Er ist den Raum getreten* ❌ | *…hat den Raum betreten* ✅ |
+| Passive | *Der Raum wurde getreten* ❌ | *Der Raum wurde betreten* ✅ |
+
+The passive is the sharpest probe: only a genuine accusative object can
+become the subject of a passive.
+
+The converse matters too: **only an accusative object** counts.
+
+> *Er **ist** mir auf den Fuß getreten.* — there is a dative object *mir*
+> and a phrase *auf den Fuß*, but no accusative object → *sein*. A dative
+> never forces *haben*: *Er **ist** mir gefolgt / begegnet.*
+> *Er **ist** drei Kilometer gelaufen.* — *drei Kilometer* is accusative in
+> form, but an adverbial of measure, not an object → *sein*.
+
 This is exactly what the prefix *be-* is for: it pulls the goal out of the
 prepositional phrase and promotes it to accusative object (*in den Raum
 treten* → *den Raum betreten*). The verb turns transitive, and with
