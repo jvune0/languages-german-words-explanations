@@ -149,6 +149,10 @@ Because their jobs differ, the two go together very naturally:
 stress and fits any conversation; *hervorheben* always implies **a set to
 be singled out from**, and reads as more written.
 
+📎 A verb of a different class from the same minutes: *beschließen*
+describes nothing, it **creates** a new state of affairs — it resolves.
+See [beschließen vs. entscheiden](beschließen_vs_entscheiden.md).
+
 ## Typical contexts
 
 - **Minutes and law:** *Wir halten fest / stellen fest, dass …*; *die

@@ -7,6 +7,7 @@
 | *antreten* | [rus](rus/antreten.md) | [eng](eng/antreten.md) |
 | *aufwenden* | [rus](rus/aufwenden.md) | [eng](eng/aufwenden.md) |
 | *bedauerlich* | [rus](rus/bedauerlich.md) | [eng](eng/bedauerlich.md) |
+| *beschließen* vs. *entscheiden* | [rus](rus/beschließen_vs_entscheiden.md) | [eng](eng/beschließen_vs_entscheiden.md) |
 | *Eifer-* (Eifer · eifrig · Eifersucht …) | [rus](rus/Eifer-Wörter.md) | [eng](eng/Eifer-Wörter.md) |
 | *emp-* (empfangen · empfehlen …) | [rus](rus/emp-Verben.md) | [eng](eng/emp-Verben.md) |
 | *empfangen* | [rus](rus/empfangen.md) | [eng](eng/empfangen.md) |
