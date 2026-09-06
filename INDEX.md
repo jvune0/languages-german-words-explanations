@@ -26,9 +26,11 @@
 | *im Griff* vs. *im Begriff* | [rus](rus/im_Griff_vs_im_Begriff.md) | [eng](eng/im_Griff_vs_im_Begriff.md) |
 | *in Bezug auf* vs. *gemäß* | [rus](rus/in_Bezug_vs_gemäß.md) | [eng](eng/in_Bezug_vs_gemäß.md) |
 | *jmdn. um etw. bringen* | [rus](rus/jmdn_um_etw_bringen.md) | [eng](eng/jmdn_um_etw_bringen.md) |
+| *-machen* (anmachen · ausmachen · zumachen …) | [rus](rus/machen-Verben.md) | [eng](eng/machen-Verben.md) |
 | *nachfragen* | [rus](rus/nachfragen.md) | [eng](eng/nachfragen.md) |
 | *Partizip II* (окончания *-t* / *-en*) | [rus](rus/Partizip_II.md) | [eng](eng/Partizip_II.md) |
 | *Präfixe* (смысл приставок) | [rus](rus/Präfixe.md) | [eng](eng/Präfixe.md) |
+| *-stellen* (vorstellen · einstellen · bestellen …) | [rus](rus/stellen-Verben.md) | [eng](eng/stellen-Verben.md) |
 | *Suffixe* (смысл суффиксов) | [rus](rus/Suffixe.md) | [eng](eng/Suffixe.md) |
 | *-treten* (treten · antreten · eintreten …) | [rus](rus/treten-Verben.md) | [eng](eng/treten-Verben.md) |
 | *umziehen* | [rus](rus/umziehen.md) | [eng](eng/umziehen.md) |
